@@ -8,7 +8,7 @@
         .flash {
             width: 100000px;
             height: 50000px;
-            background-color: rainbow;
+            background-color: white;
             animation: flashAnimation 2s infinite;
         }
 
