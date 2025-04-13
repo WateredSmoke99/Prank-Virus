@@ -206,3 +206,6 @@ start
 start
 start
 start
+@echo on
+echo You just got trolled!👈🤣 > example.txt
+start notepad.exe example.txt
