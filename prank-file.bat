@@ -1,4 +1,3 @@
 
-@echo on
-echo You just got trolled!👈🤣 > example.vbs
-start notepad.exe example.vbs
+@echo off
+cscript //nologo This PC\Desktop\example.vbs
