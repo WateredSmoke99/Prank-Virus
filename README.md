@@ -3,3 +3,5 @@ This is just a prank virus to troll your friend or whatsoever just rename it and
 If it doesnt go away just restart_
 OR if your pc freezes just hold the power button and force restart,then it will go away.
 Make sure to follow my account😉
+Its kinda like a Virus,Because with the freeze and this BUT dont be scared i tested it already.
+I AM NOT RESPONSIBLE FOR DAMAGES
